@@ -1,1 +1,3 @@
-# computervision_hw
+# 2020년 1학기 컴퓨터비전 과제
+
+cifar-10 데이터에 대한 test 성능 높이기
